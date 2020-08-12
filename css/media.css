@@ -1,0 +1,415 @@
+@media (min-width: 1200px) {
+	.container{width:1070px;}
+	#section-4 .container .image-box {
+    width: 555px;
+    height: 431px;
+}
+	#section-4 .container .title {
+    margin-top: 335px;
+}
+	#section-4 .container p {
+    padding-right: 590px;
+}
+	#footer .inline:last-child{float:right;}
+	#footer .inline:first-child {
+    margin-right: 180px;
+}
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+	
+	
+	#callback .input-box, #callback-2 .input-box, #callback-3 .input-box {
+    position: relative;
+    max-width: 100%;
+    margin: 0px auto 20px auto;
+}
+	input[type="text"], input[type="email"], input[type="name"], input[type="tel"], textarea{width:100%;font-size:30px;}
+	#callback-3 .input-box{max-width:80%;}
+	
+		:focus::-webkit-input-placeholder { color:transparent; }
+:focus::-moz-placeholder          { color:transparent; } /* Firefox 19+ */
+:focus:-moz-placeholder           { color:transparent; } /* Firefox 18 */
+
+
+/* Color of Placeholder text */
+::-webkit-input-placeholder       {color: #d5d5d5; font-size:30px; font-family: 'GothamPro-Bold';}
+::-moz-placeholder                { color: #d5d5d5;font-size:30px;font-family: 'GothamPro-Bold';opacity: 1; } /* Firefox 19+ */
+:-moz-placeholder                 { color: #d5d5d5;font-size:30px;font-family: 'GothamPro-Bold';  opacity: 1; } /* Firefox 18 */
+:-ms-input-placeholder            { color: #d5d5d5;font-size:30px; font-family: 'GothamPro-Bold'; }
+::placeholder                     { color: #d5d5d5;font-size:30px; font-family: 'GothamPro-Bold';}
+	
+	#callback .input-box i, #callback-2 .input-box i, #callback-3 .input-box i {
+    font-size: 30px;
+    left: -65px;
+    top: 15px;
+}
+	ul.sells-list li a {
+    font-size: 11px;
+    
+}
+	#section-3 .left-box {
+    width: 130px;
+}
+}
+
+@media (min-width: 992px) and (max-height: 700px ) {
+	#header{padding-top:210px;}
+	#section-2 .box.left-box {
+    margin-left: 60px;
+}
+	#section-2 .box.right-box {
+    margin-right: 60px;
+}
+	#section-2.demo {
+    background-position: 50% 50%, -29% -212px, 123% 238px;
+}
+	#section-4 .container .title {
+    margin-top: 3vw;
+}
+	#section-4 .container .image-box {
+    width: 415px;
+    height: auto;
+    right: 100px;
+}
+	#callback .description, #callback-2 .description, #callback-3 .description {
+    margin-bottom: 20px;
+}
+	#callback .input-box, #callback-2 .input-box, #callback-3 .input-box {
+    margin: 0px auto 10px auto;  
+}
+	
+	input[type="text"], 
+input[type="email"], 
+input[type="name"], 
+input[type="tel"], 
+textarea { font-size:40px;
+}
+	#callback input[type="text"],
+	#callback input[type="email"],
+	#callback input[type="tel"]{width:100%;}
+	
+	:focus::-webkit-input-placeholder { color:transparent; }
+:focus::-moz-placeholder          { color:transparent; } /* Firefox 19+ */
+:focus:-moz-placeholder           { color:transparent; } /* Firefox 18 */
+
+
+/* Color of Placeholder text */
+::-webkit-input-placeholder       {color: #d5d5d5; font-size:40px; font-family: 'GothamPro-Bold';}
+::-moz-placeholder                { color: #d5d5d5;font-size:40px;font-family: 'GothamPro-Bold';opacity: 1; } /* Firefox 19+ */
+:-moz-placeholder                 { color: #d5d5d5;font-size:40px;font-family: 'GothamPro-Bold';  opacity: 1; } /* Firefox 18 */
+:-ms-input-placeholder            { color: #d5d5d5;font-size:40px; font-family: 'GothamPro-Bold'; }
+::placeholder                     { color: #d5d5d5;font-size:40px; font-family: 'GothamPro-Bold';}
+	#callback .input-box i, #callback-2 .input-box i, #callback-3 .input-box i {
+    font-size: 50px;
+    color: #1c252d;
+    position: absolute;
+    left: -114px;
+    top: 17px;
+    font-style: normal;
+    font-family: 'GothamPro-Bold';
+}
+/* Placeholders */
+	
+	#callback span, #callback-2 span, #callback-3 span {
+    margin-bottom: 15px;
+}
+}
+
+@media (min-width: 992px) and (max-height: 810px ) and (min-height: 701px) {
+	#section-4 .container .title {
+    margin-top: 15%;
+}
+	
+	#callback .input-box, #callback-2 .input-box, #callback-3 .input-box {
+    position: relative;
+    max-width: 100%;
+    margin: 0px auto 50px auto;
+}
+	
+}
+
+
+
+
+@media (max-width: 991px) and (min-width: 768px) {
+	#section-2 .container {
+    display: table;
+    vertical-align: middle;
+    height: inherit;
+		width:93%;
+}
+	#section-2 .box {
+    width: 210px;
+    text-align: center;
+}
+	#section-3 .right-box{width:70%;}
+	ul.sells-list-2 li {
+    width: 45%;
+}
+	#section-4 .container .title {
+    margin-top: 55px;
+}
+	.container{width:750px;}
+	#section-4 .container .image-box {
+    right: 50%;
+    margin-right: -238px;
+}
+	#section-4 .container p{padding-right:100px;}
+	#section-5 .container {
+    width: 750px;
+}
+	ul.new-list li:nth-child(2n) {
+    float: none;
+}
+	ul.new-list{text-align:center;}
+	ul.new-list li{margin:0px 10px;}
+	#footer{padding-top:75px;}
+	
+	#footer .clearfix {
+    text-align: center;
+}
+	#footer .inline{float:none;margin:0px 50px !important;margin-bottom:30px !important;}
+	input[type="text"], input[type="email"], input[type="name"], input[type="tel"], textarea{width:100%;}
+	#callback .input-box i, #callback-2 .input-box i, #callback-3 .input-box i {
+    font-size: 40px;
+    left: -80px;
+    top: 17px;
+}
+	input[type="text"], input[type="email"], input[type="name"], input[type="tel"], textarea{font-size:40px;}
+
+	
+	:focus::-webkit-input-placeholder { color:transparent; }
+:focus::-moz-placeholder          { color:transparent; } /* Firefox 19+ */
+:focus:-moz-placeholder           { color:transparent; } /* Firefox 18 */
+
+
+/* Color of Placeholder text */
+::-webkit-input-placeholder       {color: #d5d5d5; font-size:40px; font-family: 'GothamPro-Bold';}
+::-moz-placeholder                { color: #d5d5d5;font-size:40px;font-family: 'GothamPro-Bold';opacity: 1; } /* Firefox 19+ */
+:-moz-placeholder                 { color: #d5d5d5;font-size:40px;font-family: 'GothamPro-Bold';  opacity: 1; } /* Firefox 18 */
+:-ms-input-placeholder            { color: #d5d5d5;font-size:40px; font-family: 'GothamPro-Bold'; }
+::placeholder                     { color: #d5d5d5;font-size:40px; font-family: 'GothamPro-Bold';}
+	
+	
+	#section-3 .left-box {
+    width: 180px;
+}
+	ul.sells-list li a{font-size:15px;}
+}
+
+
+
+
+@media only screen and (max-width: 767px) and (min-width: 319px) {
+	
+	.logo{top:14px;}
+	.callback {
+    position: fixed;
+    right: 9px;
+       top: 15px;
+    text-align: center;
+    width: 80px;
+}
+	#header .button-box a.button{padding:5px 0px;text-align:center;display:block;}
+	.button-box {
+    margin-bottom: 5px;
+}
+	ul.social-list {
+       right: -44px;
+}
+	#header{padding-top: 150px;}
+	.header-content h1 {
+    font-size: 25px;
+}
+	.header-content h2 {
+    font-size: 14px;
+    margin-top: 13px;
+}
+	.container{width:100%;}
+	#section-2.demo{height:auto;min-height:90vh;background:none;    background-color: #ececec;padding-bottom:50px}
+	#section-2{height:auto;min-height:90vh;padding-bottom:50px;}
+	#section-2 .box{width:250px;display:inline-block;vertical-align:top;float:none !important;}
+	#section-2 .box span{padding-top:30px;}
+	.table-box {text-align:center;}
+	#section-2 .box span{margin-bottom:0px;}
+	#section-3 {
+    background-color: #ffffff;
+    padding-top: 50px;
+    height: auto;
+    overflow: hidden;    min-height: 100vh;
+}
+	#section-3 .left-box {
+    float: none;
+        width: 100%;
+    margin: 0px auto;
+    text-align: center;    padding-top: 0px;
+}
+	#section-3 .right-box{width:100%;float:none;}
+	ul.sells-list-2 li{width:100%;}
+	ul.sells-list-2 li .sell-box{    margin-left: 0px;}
+	ul.sells-list-2 li .name {
+    left: -190px;
+}
+	#section-4 {
+    height: auto;
+    min-height: 90vh;
+}
+	#section-4 .container .title {
+    font-size: 23px;
+    line-height: 32px;
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+	#section-4 .container p {
+    font-size: 12px;
+    color: #38424a;
+    line-height: 20px;
+    margin-bottom: 25px;
+    padding-right: 100px;
+}
+#section-4 .container .image-box {
+    position: static;
+    width: 250px;
+    height: auto;
+    margin: 40px auto -2px auto;
+}
+	#section-4 .container{height:inherit;}
+	#section-5 {
+    padding-top: 50px;
+}
+	#section-5 .container {
+    width: 100%;
+}
+	ul.new-list li {
+    width: 100% !important;     height: auto;
+    margin-bottom: 30px;
+}
+	ul.new-list li .image-box {
+    width: 100% !important;
+    height: auto !important;
+}
+	#footer {
+    height: 491px;
+    margin-top: -491px;
+   
+    padding-top: 30px;
+}
+	#footer .inline {
+    float: none;
+    width: 100%;
+    margin: 0px !important;
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+	#footer .title {
+    font-size: 35px;
+    color: #fff;
+    font-family: 'GothamPro-Bold';
+    margin-bottom: 30px;
+}
+	#footer .input-box{width:100%;}
+	.fancybox-close{top:15px !important;left:15px !important;}
+	#callback span, #callback-2 span, #callback-3 span {
+    color: #1c252d;
+    font-size: 29px;
+    font-family: 'yeseva_oneregular';
+    margin-bottom: 15px;
+}
+	#callback .description, #callback-2 .description, #callback-3 .description {
+    font-size: 14px;
+    color: #38424a;
+    margin-bottom: 15px;
+}
+	input[type="text"], input[type="email"], input[type="name"], input[type="tel"], textarea{font-size:10px;width:100%;}
+
+	
+	:focus::-webkit-input-placeholder { color:transparent; }
+:focus::-moz-placeholder          { color:transparent; } /* Firefox 19+ */
+:focus:-moz-placeholder           { color:transparent; } /* Firefox 18 */
+
+
+/* Color of Placeholder text */
+::-webkit-input-placeholder       {color: #d5d5d5; font-size:10px; font-family: 'GothamPro-Bold';}
+::-moz-placeholder                { color: #d5d5d5;font-size:10px;font-family: 'GothamPro-Bold';opacity: 1; } /* Firefox 19+ */
+:-moz-placeholder                 { color: #d5d5d5;font-size:10px;font-family: 'GothamPro-Bold';  opacity: 1; } /* Firefox 18 */
+:-ms-input-placeholder            { color: #d5d5d5;font-size:10px; font-family: 'GothamPro-Bold'; }
+::placeholder                     { color: #d5d5d5;font-size:10px; font-family: 'GothamPro-Bold';}
+	#callback .input-box, #callback-2 .input-box, #callback-3 .input-box {
+    margin: 0px auto 15px auto;
+}
+	#callback .input-box i, #callback-2 .input-box i, #callback-3 .input-box i {
+    font-size: 14px;
+    color: #1c252d;
+    position: absolute;
+    left: -28px;
+    top: 11px;
+    font-style: normal;
+    font-family: 'GothamPro-Bold';
+}
+	#callback input[type="submit"], #callback-2 input[type="submit"], #callback-3 input[type="submit"] {
+    background-color: #c49257;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    padding: 13px 20px;
+    border: 1px solid #c49257;
+}
+	.how-much {
+    position: absolute;
+    left: 15px;
+    bottom: -25px;
+    font-size: 8px;
+}
+	
+	.logo a {
+    display: block;
+    width: 90px;
+    height: 50px;
+    background-image: url(../images/logo.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 90px 50px;
+}
+	ul.sells-list-2 {
+    margin: 0px 0px 50px 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 0px;
+}
+	ul.sells-list-2 li {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+	
+	#section-3 .clearfix.bottom  .button-box{width:100%;text-align:center;position: relative;
+    bottom: 70px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
